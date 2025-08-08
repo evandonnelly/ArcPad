@@ -1,0 +1,61 @@
+{
+	"game_title": "Rocket League",
+	"warmup": "Backboard Therapy",
+	"focus": "Don't Challenge",
+	"sessionList":
+		[
+			{
+				"vod_id": "2025-08-07.23.37",
+				"outcome": "win",
+				"mental": "Started out pretty calm and eager to learn.",
+				"observations": 
+					[
+						"Overcommitting even when I'm just trying to fake. I'm not ready to defend when they get baited.",
+						"I am still challenging when I shouldn't be. Most of the goales scored on me were because of this."
+					],
+				"analysis":
+					[
+					]
+			},
+			{
+				"vod_id": "2025-08-07.00.16",
+				"outcome": "loss",
+				"mental": "I started getting really frustrated pretty fast. I felt desperate for a win.",
+				"observations": 
+					[
+						"This opponent didn't feel mechanically insane but definitely didn't feel like a gold. He was air dribbling and never over-committed. He just wouldn't go for the ball until I was out of position which felt higher level.",
+						"I was playing embaressingly desperate."
+					],
+				"analysis":
+					[
+					]
+			},
+			{
+				"vod_id": "2025-08-07.00.25",
+				"outcome": "win",
+				"mental": "",
+				"observations": 
+					[
+					],
+				"analysis":
+					[
+						
+					]
+			},
+			{
+				"vod_id": "2025-08-07.00.33",
+				"outcome": "loss",
+				"mental": "",
+				"observations": 
+					[
+						"Just so sloppy all around.",
+						"Faking doesn't seem to do anything. What am I doing wrong?",
+						"Still challenging too much and overcommiting. Work on being super diciplined with positioning and ball touches. Just don't go for anything unless it's guaranteed or you're going to get scored on.",
+						"I also feel like I'm getting used to 1v1s. I'm feeling jumpy and desperate for a win."
+					],
+				"analysis":
+					[
+					]
+			}
+		]
+}
