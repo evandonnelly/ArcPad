@@ -1,14 +1,15 @@
 {
+	"date": "2025.08.07.23.37.00",
 	"game_title": "Rocket League",
 	"warmup": "Backboard Therapy",
 	"focus": "Don't Challenge",
-	"sessionList":
+	"MatchList":
 		[
 			{
-				"vod_id": "2025-08-07.23.37",
+				"Match_id": "2025-08-07.23.37",
 				"outcome": "win",
 				"mental": "Started out pretty calm and eager to learn.",
-				"observations": 
+				"observations":
 					[
 						"Overcommitting even when I'm just trying to fake. I'm not ready to defend when they get baited.",
 						"I am still challenging when I shouldn't be. Most of the goales scored on me were because of this."
@@ -18,10 +19,10 @@
 					]
 			},
 			{
-				"vod_id": "2025-08-07.00.16",
+				"Match_id": "2025-08-07.00.16",
 				"outcome": "loss",
 				"mental": "I started getting really frustrated pretty fast. I felt desperate for a win.",
-				"observations": 
+				"observations":
 					[
 						"This opponent didn't feel mechanically insane but definitely didn't feel like a gold. He was air dribbling and never over-committed. He just wouldn't go for the ball until I was out of position which felt higher level.",
 						"I was playing embaressingly desperate."
@@ -31,22 +32,21 @@
 					]
 			},
 			{
-				"vod_id": "2025-08-07.00.25",
+				"Match_id": "2025-08-07.00.25",
 				"outcome": "win",
 				"mental": "",
-				"observations": 
+				"observations":
 					[
 					],
 				"analysis":
 					[
-						
 					]
 			},
 			{
-				"vod_id": "2025-08-07.00.33",
+				"Match_id": "2025-08-07.00.33",
 				"outcome": "loss",
 				"mental": "",
-				"observations": 
+				"observations":
 					[
 						"Just so sloppy all around.",
 						"Faking doesn't seem to do anything. What am I doing wrong?",
