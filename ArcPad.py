@@ -1,5 +1,6 @@
 from typing import List
 from datetime import datetime
+import uuid
 import streamlit as st
 from Match import Match
 from Session import Session
@@ -8,7 +9,7 @@ from Warmup import Warmup
 from Focus import Focus
 import sqlite3
 
-st.title("Adjester")
+st.title("Arc Pad v0.0.1")
 
 conn = sqlite3.connect("sessiondata.db")
 cursor = conn.cursor()
@@ -91,5 +92,19 @@ CREATE TABLE IF NOT EXISTS analysis (
 
 conn.commit()
 
+# ---------------------------------------------------------------------------------
+# POPULATE TABLES WITH TEST DATA
+# ---------------------------------------------------------------------------------
+
+def populateTestData():
+    # Warmups
+    warmup_id = str(uuid.uuid4())
+    cursor.insert("INSERT INTO warmups VALUES (?, ?, ?)", (warmup_id, ))
+
+def newUUID():
+    return str(uuid.uuid4())
+
 def defaultMatchID():
     return datetime.now().strftime("%Y.%m.%d.%H.%M.%S")
+
+populateTestData()
